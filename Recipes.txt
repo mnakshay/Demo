@@ -6,4 +6,8 @@ Kheer
 Pasta
 Pizza
 
+Beans
+Curry
+
+
 Thank You!
